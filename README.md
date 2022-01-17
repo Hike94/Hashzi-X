@@ -20,7 +20,7 @@
     Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
+        <a href="https://Wa.me/+94712879753">Nimesh D Kavindu Whatsapp </a> |
    </a>    
         
   <p align="center">
@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
+  <a href="https://wa.me/94712879753">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
